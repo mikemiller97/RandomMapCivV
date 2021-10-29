@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/wowru/.m2/repository/org/diirt/javafx/javafx-all/3.0.0/javafx-all-3.0.0.pom'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/wowru/Documents/NetBeansProjects/RandomCiv/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/wowru/Documents/NetBeansProjects/RandomCiv/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RandomCiv 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'RandomCiv 1.0-SNAPSHOT API'
+Map
+'C:/Users/wowru/Documents/NetBeansProjects/RandomCiv/src/main/java/Map/Map.java'
+'C:/Users/wowru/Documents/NetBeansProjects/RandomCiv/src/main/java/Map/MapList.java'
+'C:/Users/wowru/Documents/NetBeansProjects/RandomCiv/src/main/java/Map/MyFrame.java'
+'C:/Users/wowru/Documents/NetBeansProjects/RandomCiv/src/main/java/Map/ui.java'
+C:\Users\wowru\.m2\repository\org\diirt\javafx\javafx-all\3.0.0\javafx-all-3.0.0.pom = 1635368878763
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\src\main\java = 1635369685116
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\allclasses-index.html = 1635511806430
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\allpackages-index.html = 1635511806434
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\element-list = 1635511806366
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\help-doc.html = 1635511806457
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\index-all.html = 1635511806450
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\index.html = 1635511806453
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\jquery-ui.overrides.css = 1635511806496
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\member-search-index.js = 1635511806437
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\module-search-index.js = 1635511806434
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\overview-tree.html = 1635511806419
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\package-search-index.js = 1635511806436
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\script.js = 1635511806461
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\search.js = 1635511806463
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\serialized-form.html = 1635511806395
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\stylesheet.css = 1635511806459
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\tag-search-index.js = 1635511806438
+C:\Users\wowru\Documents\NetBeansProjects\RandomCiv\target\site\apidocs\type-search-index.js = 1635511806437
